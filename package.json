@@ -1,7 +1,7 @@
 {
   "name": "Anakin",
   "version": "1.0.0",
-  "description": "Vat's homepage",
+  "description": "Cat's homepage",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
