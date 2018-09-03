@@ -175,4 +175,13 @@ main {
   height: 60px;
 }
 
+p::first-letter {
+  color: #eece1ae8;
+  margin-right: 0.2rem;
+  font-weight: bold;
+  -webkit-initial-letter: 4;
+  -moz-initial-letter: 4;
+  initial-letter: 4;
+}
+
 @import "mobile";
